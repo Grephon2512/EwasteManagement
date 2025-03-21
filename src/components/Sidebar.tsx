@@ -33,13 +33,13 @@ const sidebarItems = [
   { href: "/rewards", icon: Coins, label: "EcoPerks" },
   { href: "/leaderboard", icon: Medal, label: "Green League" },
   { href: "/Navigation", icon: Navigation, label: "Navigation" },
-  { href: "/EPR", icon: Factory, label: "EPR" },
+  // { href: "/EPR", icon: Factory, label: "EPR" },
   { href: "/GreenDeal", icon: ShoppingCart, label: "Green Deals" },
   { href: "/Recycler", icon: Recycle, label: "Recycler" },
   { href: "/chatbot", icon: Bot, label: "GreenBot" },
-  { href: "/OurServices", icon: Briefcase, label: "Our Services" },
-  { href: "/Tracking", icon: Route, label: "Tracking" },
-  { href: "/AIPred", icon: Route, label: "AI Predictor" },
+  // { href: "/OurServices", icon: Briefcase, label: "Our Services" },
+  // { href: "/Tracking", icon: Route, label: "Tracking" },
+  // { href: "/AIPred", icon: Route, label: "AI Predictor" },
 ];
 
 interface SidebarProps {
